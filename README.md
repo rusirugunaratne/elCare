@@ -18,9 +18,8 @@
 
   <br>
   <a href="#description">Description</a> •
-  <a href="#objectives">Objectives</a> •
-  <a href="#tools-and-languages">Tools and Languages</a> •
-  <a href="#components">Components</a>
+  <a href="#components">Components</a> •
+  <a href="#contributors">Contributors</a>
 </p>
 
 ## Description
@@ -109,3 +108,6 @@ user can navigate to different functions using the given buttons.
 ![screenshot](assets/logo/doctorinterface.png)
 <br>
 Next, we will look into the doctor's functionalities. From the loading screen after selecting the mode of entry, if the user type is selected as a doctor, the doctor's home interface will be loaded. Here, the name of each patient is displayed on a card. When the view details button is tapped, it will open an interface, showing two buttons. the ‘sleep Tracker details’ button will open another interface to display the details related to that person’s sleep quality. Similarly, the pill timer details button will display the user’s taken medicine records. All patient details are obtained through a cloud storage that interlinks the user and doctor. let’s move back to the doctor's home interface. from the bottom of the patient list, the doctor can add a new patient to the list. on the bottom right is another button used to load the doctor’s profile page, which display’s the doctor’s details which are updatable or can also log out from our ‘Elcare’ Application.
+
+## Contributors
+
